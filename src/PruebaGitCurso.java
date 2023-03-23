@@ -7,6 +7,8 @@ public class PruebaGitCurso {
 		System.out.println("Hey!");
 		System.out.println("Hey!");
 		System.out.println("Hey!");
+		System.out.println("Hey!");
+		System.out.println("Hey!");
 	}
 
 }
